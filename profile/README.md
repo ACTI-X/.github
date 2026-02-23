@@ -1,8 +1,10 @@
-# ACIT-X PROJECT
+# ACIT-X - Advanced Cyber Threat Information eXchange
+
+Github organization repository for ACIT-X project.
 
 ![ACTI-X](https://github.com/ACTI-X/.github/blob/main/images/acti-x.png?raw=true)
 
-Github repository for ACIT-X project.
+A European cybersecurity project that strengthens how critical infrastructures and essential services detect, understand, and respond to cyber threats—by connecting advanced security technologies through a shared, real-time threat intelligence backbone.
 
 ## Founding
 
