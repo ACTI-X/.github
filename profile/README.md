@@ -1,6 +1,6 @@
 # ACIT-X PROJECT
 
-![ACTI-X](https://github.com/ACIT-X/ACIT-X/blob/main/repos/github/images/acti-x.png)
+![ACTI-X](https://github.com/ACTI-X/.github/blob/main/images/acti-x.png?raw=true)
 
 Github repository for ACIT-X project.
 
