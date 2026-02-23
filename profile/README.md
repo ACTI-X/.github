@@ -2,7 +2,7 @@
 
 A European cybersecurity project that strengthens how critical infrastructures and essential services detect, understand, and respond to cyber threats—by connecting advanced security technologies through a shared, real-time threat intelligence backbone.
 
-![ACTI-X](https://github.com/ACTI-X/.github/blob/main/images/acti-x.png?raw=true)
+![ACTI-X](https://github.com/ACTI-X/.github/blob/main/images/acti-x-dc.png?raw=true)
 
 Github organization repository for ACIT-X project.
 
